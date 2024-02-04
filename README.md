@@ -12,6 +12,8 @@
    
 2. Sau khi đọc file dữ liệu từ Excel:
    - Thực hiện các bước Data Cleaning [bao gồm: kiểm tra các giá trị trùng lặp (.distinct()), sửa các định dạng dữ liệu cho phù hợp (dùng pd.datetime), kiểm tra các giá trị khuyết thiếu (isna())...].
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/35be1b96-df98-4733-9db7-9321f43a369a)
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/73d2c27f-d061-4947-8198-c4899873266b)
    - Tạo 1 bản sao để thực hiện việc làm sạch dữ liệu, để đảm bảo chắc chắn bản dữ liệu chính thức đã được làm sạch. Các thông tin sau khi được làm sạch sẽ đủ khả năng phục vụ cho việc phân tích.
 
 3. 
