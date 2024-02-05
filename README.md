@@ -50,7 +50,7 @@
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/f3467efe-62a0-4ddc-839e-21b8b4d56618)
 
 # Kết luận:
-Sau khi thực hiện các bước phân tích cũng như thống kê ở phía trên, team Datalent đã rút ra được nhiều insights có giá trị, từ đó nghiên cứu thêm các hướng giải quyết cho doanh nghiệp dựa theo những insights kia. Toàn bộ phần Data-Driven Decision Making, nhằm để tối ưu hóa tất cả các thông tin hữu ích từ việc nghiên cứu thị trường kết hợp phân tích dữ liệu, team Datalent đã thực hiện ở phần báo cáo.
+Sau khi thực hiện các bước phân tích thống kê, team đã rút ra được nhiều insights có giá trị, từ đó nghiên cứu thêm các hướng giải quyết cho doanh nghiệp dựa theo những insights trên. Toàn bộ phần Data-Driven Decision Making, nhằm để tối ưu hóa tất cả các thông tin hữu ích từ việc nghiên cứu thị trường kết hợp phân tích dữ liệu, team Datalent sẽ thực hiện ở phần báo cáo.
 
 
 
