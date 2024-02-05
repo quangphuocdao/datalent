@@ -1,4 +1,4 @@
-# Datalent
+![image](https://github.com/quangphuocdao/datalent/assets/142654527/2f9f6798-9413-4658-973f-4bb2633714eb)# Datalent
 Đây là bản phân tích dữ liệu của nhóm Datalent, tập trung vào bộ dữ liệu của doanh nghiệp phim. Mục đích của việc phân tích nhằm trích xuất, thống kê, và phân tích dữ liệu để đưa ra thông tin có giá trị. Những kết quả này đóng góp quan trọng vào quá trình đưa ra quyết định chiến lược cho doanh nghiệp, hỗ trợ việc tối ưu hóa các quy trình và tạo ra cơ sở cho quyết định thông tin đúng đắn dựa trên dữ liệu. Các tài nguyên được sử dụng bao gồm Python và các gói liên quan Jupyter, matplotlib, Pandas, Numpy, Plotly và Seaborn. Tất cả các thư viện này đều được import qua Jupyter Notebook
 
 # Quy trình xử lý bộ dữ liệu
@@ -18,12 +18,48 @@
      
 
 3. Thực hiện phân tích thống kê 1 số yêu cầu:
-   - Thống kê tổng doanh thu và số lượng vé theo các ngày trong tháng 5/2019:
+   - Phân tích thống kê tổng doanh thu và số lượng vé theo các ngày trong tháng 5/2019:
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/977208fc-d867-454a-b84f-021308096d12)
-   - Thống kê tổng doanh thu và số lượng vé được mua dựa theo thời gian bộ phim được chiếu:
+   - Phân tích thống kê tổng doanh thu và số lượng vé được mua dựa theo thời gian bộ phim được chiếu:
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/3d4072c7-04c8-4b97-8e37-697e39f27239)
-   - Thống kê tổng doanh thu và số lượng vé được mua dựa theo nhóm tuổi của khách hàng:
+   - Phân tích thống kê tổng doanh thu và số lượng vé được mua dựa theo nhóm tuổi của khách hàng:
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/03db54f9-bde2-4983-a3f9-dde40000af78)
+   - Phân tích thống kê tổng doanh thu và số lượng vé được bán ra dựa theo giới tính
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/ee618323-f641-4cb5-a285-42bd5583d384)
+   - Phân tích thống kê tổng doanh thu dựa theo tỉnh thành:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/ba3c727e-6fa5-4d82-92b9-412e5d1375ed)
+   - Phân tích thống kê tổng doanh thu và số lượng vé được mua dựa theo nghề nghiệp của khách hàng:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/bc214437-d31d-4531-96c8-3df7e53a019b)
+   - Phân tích thống kê tổng doanh thu theo từng bộ phim:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/dd9327a3-8025-4e26-9074-85906eb023b1)
+   - Phân tích thống kê doanh thu và số lượng vé được bán ra của từng thể loại phim:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/ce83f186-49bc-4c70-ade6-1931d7fb8ef7)
+   - Phân tích thống kê tổng doanh thu và số lượng vé được bán ra dựa theo thời lượng của phim:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/fd35f918-acb0-410e-86c1-be670847ab26)
+   - Phân tích thống kê số lượng popcorn được mua bởi khách hàng:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/42382643-810f-419d-b3af-be99a6204b33)
+   - Phân tích thống kê doanh thu và số lượng vé được bán ra đối với phim của từng quốc gia:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/0f32b688-33a9-41f8-ac5f-3f1a1672f32b)
+   - Phân tích thống kê số lượng khách hàng đi xem phim thì đi xem với mấy người:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/b7b08dbe-5e50-4217-b9ab-88a4283e3643)
+   - Phân tích thống kê tổng doanh thu dựa theo giới tính và thể loại phim:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/b8b6ccd6-3bb3-4245-ba6f-039901a1011d)
+   - Phân tích thống kê tổng doanh thu dựa vào giới tính và thể loại phim:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/b3052463-db0a-4650-91e8-88b76bd12b23)
+   - Kiểm tra độ tương quan giữa các numeric values:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/f3467efe-62a0-4ddc-839e-21b8b4d56618)
+
+# Kết luận:
+Sau khi thực hiện các bước phân tích cũng như thống kê ở phía trên, team Datalent đã rút ra được nhiều insights có giá trị, từ đó nghiên cứu thêm các hướng giải quyết cho doanh nghiệp dựa theo những insights kia. Toàn bộ phần Data-Driven Decision Making, nhằm để tối ưu hóa tất cả các thông tin hữu ích từ việc nghiên cứu thị trường kết hợp phân tích dữ liệu, team Datalent đã thực hiện ở phần báo cáo.
+
+
+
+
+
+
+
+
+
 
 
 
