@@ -1,4 +1,4 @@
-![image](https://github.com/quangphuocdao/datalent/assets/142654527/2f9f6798-9413-4658-973f-4bb2633714eb)# Datalent
+# Datalent
 Đây là bản phân tích dữ liệu của nhóm Datalent, tập trung vào bộ dữ liệu của doanh nghiệp phim. Mục đích của việc phân tích nhằm trích xuất, thống kê, và phân tích dữ liệu để đưa ra thông tin có giá trị. Những kết quả này đóng góp quan trọng vào quá trình đưa ra quyết định chiến lược cho doanh nghiệp, hỗ trợ việc tối ưu hóa các quy trình và tạo ra cơ sở cho quyết định thông tin đúng đắn dựa trên dữ liệu. Các tài nguyên được sử dụng bao gồm Python và các gói liên quan Jupyter, matplotlib, Pandas, Numpy, Plotly và Seaborn. Tất cả các thư viện này đều được import qua Jupyter Notebook
 
 # Quy trình xử lý bộ dữ liệu
