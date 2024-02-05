@@ -15,6 +15,15 @@
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/35be1b96-df98-4733-9db7-9321f43a369a)
      ![image](https://github.com/quangphuocdao/datalent/assets/142654527/73d2c27f-d061-4947-8198-c4899873266b)
    - Tạo 1 bản sao để thực hiện việc làm sạch dữ liệu, để đảm bảo chắc chắn bản dữ liệu chính thức đã được làm sạch. Các thông tin sau khi được làm sạch sẽ đủ khả năng phục vụ cho việc phân tích.
+     
 
-3. 
+3. Thực hiện phân tích thống kê 1 số yêu cầu:
+   - Thống kê tổng doanh thu và số lượng vé theo các ngày trong tháng 5/2019:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/977208fc-d867-454a-b84f-021308096d12)
+   - Thống kê tổng doanh thu và số lượng vé được mua dựa theo thời gian bộ phim được chiếu:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/3d4072c7-04c8-4b97-8e37-697e39f27239)
+   - Thống kê tổng doanh thu và số lượng vé được mua dựa theo nhóm tuổi của khách hàng:
+     ![image](https://github.com/quangphuocdao/datalent/assets/142654527/03db54f9-bde2-4983-a3f9-dde40000af78)
+
+
 
